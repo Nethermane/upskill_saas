@@ -33,3 +33,16 @@ h1, h2,h3 {
 .navbar {
     border: none;
 }
+
+.navbar-default .navbar-nav > li > a{
+    color: white;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    opacity: 0.75;
+}
+.navbar-default .navbar-brand {
+    color: white;
+}
+.navbar-default .navbar-brand:hover {
+    opacity: 0.75;
+}
