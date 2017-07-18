@@ -19,7 +19,7 @@
 @import "font-awesome";
 
 //typography styles
-h1, h2,h3 {
+h1, h2,h3, p {
     font-family: 'Open Sans', sans-serif;
 }
 //background gradient
@@ -45,4 +45,8 @@ h1, h2,h3 {
         color: white;
         opacity: 0.75;
     }
+}
+.navbar-brand {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
 }
